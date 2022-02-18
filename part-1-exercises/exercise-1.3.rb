@@ -2,25 +2,25 @@ def favorite_movie(movie)
     print "My favorite movie is #{movie}"
 end
 
-favorite_movie("Office Space")
+# favorite_movie("Office Space")
 
-puts
+# puts
 
 def favorite_food(food)
     print "My favorite food is #{food}"
 end
 
-favorite_food("Shwarma")
+# favorite_food("Shwarma")
 
-puts
+# puts
 
 def favorite_drink(drink)
     print "My favorite drink is #{drink}"
 end 
 
-favorite_drink("tea with milk")
+# favorite_drink("tea with milk")
 
-puts
+# puts
 
 def list_of_favorite_things(movie, food, drink)
     puts favorite_movie(movie)
