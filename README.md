@@ -16,6 +16,16 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Gem**</em> - a package manager that provides a standard format for distributing ruby programs and libraries. <br>
 
 ## Part 2
+## Part 2
+<em>**Conditional**</em> - Allows for code to be run when a particular condition is true <br>
+<em>**The difference between if, elseif and else.**</em> - If introduces the code to be ran if condition is true.  Elseif introduces alternative code to be run if it is true (and previous if statement is false).  Else runs code when it's true (and previous if statement and elsif statements are false) <br>
+<em>**What are Case/When statements? </em> - Case introduces a variable.  When introduces a comparison to the variable and if true, then specific code is run. <br>
+<em>**What is a data structure? </em> - either an array or a hash?  I'm not sure exactly <rb>
+<em>**Arrays**</em> - a data structure that holds elements organized by indexes <br>
+<em>**What is meant by 'built-in' methods?**</em> - specific methods that you can access on specific data types <br>
+<em>**Loops**</em> - iterates through a data structure (arrays, hashes, ranges) <br>
+<em>**What are infinite loops?**</em> - a loop that will never have a condition allowing it to end/break <br>
+<em>**What is meant by 'built-in' methods?**</em> - see line 25 <br>
 
 ## Part 3
 
