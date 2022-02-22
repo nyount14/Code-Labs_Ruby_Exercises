@@ -1,11 +1,4 @@
 
-
-
-
-# If the result of the multiplication is an even number, print the result follow by is a even number.
-# If the result of the multiplication is an odd number, print the result follow by is a odd number.
-# Repeat lines 4-7 except, instead of a loop, use the built-in array method select.
-
 num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 puts num.first
 puts num.last
