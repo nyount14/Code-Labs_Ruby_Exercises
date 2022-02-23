@@ -9,12 +9,18 @@ users = [
     },
     {
         name: "Jimmy Lendricks",
-        nage: 23
+        age: 23
     }
 ]
 
 
-
-while !users.has_value?("Jimmy Lendricks")
-    puts "test"
+x = 0
+while x < users.length do
+    if users[x][:name].match("Jimmy")
+        puts "My name and age are confidential."
+        x += 1
+    else
+    puts "My name is #{users[x][:name]} and I am #{users[x][:age]}."
+    x += 1
+    end
 end
