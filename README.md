@@ -27,6 +27,14 @@ Here is a list of ruby terms and definitions used in class.
 <em>**What are infinite loops?**</em> - a loop that will never have a condition allowing it to end/break <br>
 <em>**What is meant by 'built-in' methods?**</em> - see line 25 <br>
 
+
 ## Part 3
+<em>**What is Object Oriented Programming?**</em> - manipulating information by storing information in objects and then manipulating methods and variables in those objects <br>
+<em>**Class inheritance**</em> - transferring class methods and variables from a parent class to a child class. <br>
+<em>**What are getters and setters?**</em> - make class attributes accessible outside of the class method and allow you to access them and assign values to them. <br>
+<em>**Difference between class variables and instance variables and class attributes?**</em> - class variable-  <br>
+<em>**What does self signify in a class?**</em> - INSERT ANSWER HERE <br>
+<em>**Modules</em> - INSERT DEFINITION HERE <br>
+
 
 ## Part 4
