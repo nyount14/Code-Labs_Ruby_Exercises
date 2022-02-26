@@ -3,9 +3,9 @@ def sum(num1, num2)
     result1 = result.shift(2)
     result.slice!(1)
     result.push("4")
-    print result.join
+    result.join
 
 end
 
-sum("11", "123")
+puts sum("11", "123")
 
