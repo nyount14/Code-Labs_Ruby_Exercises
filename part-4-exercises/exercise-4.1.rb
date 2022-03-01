@@ -1,5 +1,8 @@
 require 'bcrypt'
 
+
+#******************START OF CLASS************************
+
 class User
     # Attributes
     attr_accessor :username, :password, :logged_in
@@ -44,7 +47,11 @@ class User
     end
 end
 
-# Initializing instances
+#****************END OF CLASS********************************
+
+
+
+#***************INITIALIZING INSTANCES***********************
 User.new("johndoe123", "password1")
 User.new("skywoman456", "password2")
 User.new("jimmyjohns789", "password3")
@@ -60,6 +67,7 @@ while (isLoggedIn == false)
     username = gets.chomp
     puts "What is your password?"
     password = gets.chomp
+#You have to write out User.login b/c you're outside of the class and you're accessing a class method
     user = User.login(username, password)
     if user
         puts "Logged in Successful!"
