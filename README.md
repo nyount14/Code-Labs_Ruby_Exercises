@@ -38,3 +38,7 @@ Here is a list of ruby terms and definitions used in class.
 
 
 ## Part 4
+## Part 4
+<em>**Bundler**<em> - this is a type of gem <br>
+<em>**Gemfile**<em> - open source libraries that contain Ruby code <br>
+<em>**Bcrypt**<em> - algorhythm that encrypts passwords <br>
